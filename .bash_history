@@ -121,3 +121,106 @@ vim README.md
 git add .
 git commit -m"vm"
 git push 
+docker run hello-world
+dockerps
+docker run getting-started
+ls
+cd getting-started
+ls
+cd getting-started-master
+ls
+cd
+cd getting-started
+vim README.md
+git add .
+git git commit -m "vm"
+git commit -m "vm"
+git push
+git pull
+git pull -v
+git@github.com:C20379081/getting-started.git
+d
+cd
+git clone git@github.com:C20379081/getting-started.git
+cd getting-started
+vim README.md
+cd
+git add .
+git add getting-started
+git commit -m "vm"
+git push
+git push --set-upstream origin master
+vim README.md
+cd getting-started
+vim README.md
+git add .
+git commit -m "vm"
+git push
+ls
+cd getting-started-master
+docker run
+docker run charming_brown
+docker run hello-world
+ls
+cd app
+ls
+cd ..
+docker run 1276fa86378062853cbba08fca38ff52976eb4c6512f684501523b8008531817
+docker run 482f38004f82
+cd ..
+docker run 482f38004f82
+docker login -u mooseod
+docker run getting-started
+docker run 482f38004f82
+ocker run -dp 3000:3000 getting-started
+docker run -dp 3000:3000 getting-started
+cd ..
+docker run -dp 3000:3000 getting-started
+docker build -t getting-started .
+docker run hello-world
+docker run pg2022
+docker run 482f38004f82
+docker run 1276fa86378062853cbba08fca38ff52976eb4c6512f684501523b8008531817
+dockerps
+docker ps
+docker run 7f6aa7f98eb454cd1ae589a03fa3e20006b1fd5853f4cfd75f2807c769901e91
+ls
+cd 
+cd getting-started
+ls
+docker run 7f6aa7f98eb454cd1ae589a03fa3e20006b1fd5853f4cfd75f2807c769901e91
+cd getting-started
+ls
+cd getting-started-master
+ls
+cd app
+ls
+docker build -t getting-started .
+ls
+cd getting-started 
+ls
+cd getting-started-master
+ls
+cd app
+docker run -dp 3000:3000 getting-started
+docker ps
+ls
+touch test.txt
+cat touch.txt
+ls
+cat test.txt
+cd test.txt
+vim  test.txt
+cat test.txt
+git add .
+git commit -m "vm"
+git push
+git remote add origin https://github.com/C20379081/getting-started
+git remote set-url https://github.com/C20379081/getting-started
+git add .
+git commit -m "vm"
+git push
+ls
+cd
+ls
+ssh-keygen
